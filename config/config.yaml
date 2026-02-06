@@ -42,10 +42,6 @@ platforms:
       name: "澎湃新闻"
     - id: "bilibili-hot-search"
       name: "bilibili 热搜"
-    - id: "cls-hot"
-      name: "财联社热门"
-    - id: "ifeng"
-      name: "凤凰网"
     - id: "tieba"
       name: "贴吧"
     - id: "weibo"
@@ -54,6 +50,20 @@ platforms:
       name: "抖音"
     - id: "zhihu"
       name: "知乎"
+    # === 科技类平台 ===
+    - id: "ithome"
+      name: "IT之家"
+    - id: "juejin"
+      name: "掘金"
+    - id: "github"
+      name: "GitHub"
+    - id: "hackernews"
+      name: "Hacker News"
+    - id: "v2ex"
+      name: "V2EX"
+    - id: "sspai"
+      name: "少数派"
+  
 
 
 
